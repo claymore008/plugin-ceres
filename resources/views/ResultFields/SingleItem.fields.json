@@ -78,7 +78,10 @@
     "properties.property.surcharge",
     "properties.property.value",
     "properties.property.valueType",
+    "properties.property.selection.*",
+    "properties.selection.*",
     "properties.surcharge",
+    "properties.texts.*",
     "texts.*",
     "unit.content",
     "unit.names.lang",
@@ -111,5 +114,6 @@
     "variation.widthMM",
     "variationProperties.*",
     "tags.id",
-    "tags.names.*"
+    "tags.names.*",
+    "stock.*"
 ]
